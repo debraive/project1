@@ -1,0 +1,35 @@
+body {
+  background-color: #1705ed;
+  color: #f7d414;
+  font-family: "Gill Sans", "Gill Sans MT", Roboto, sans-serif;
+  text-align: center;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 10px auto;
+  max-width: 300px;
+  padding: 30px;
+  border: 5px double #f7d414;
+  border-radius: 250px
+    
+}
+
+h1 {
+  font-size: 60px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-top: 60px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+h1 span {
+  display: block;
+  font-size: 50%;
+}
+.black {
+  background-color: black;
+  display: inline-block
+}
